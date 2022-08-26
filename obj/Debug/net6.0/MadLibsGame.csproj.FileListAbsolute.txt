@@ -1,0 +1,15 @@
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\bin\Debug\net6.0\MadLibsGame.exe
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\bin\Debug\net6.0\MadLibsGame.deps.json
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\bin\Debug\net6.0\MadLibsGame.runtimeconfig.json
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\bin\Debug\net6.0\MadLibsGame.dll
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\bin\Debug\net6.0\MadLibsGame.pdb
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.dll
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\refint\MadLibsGame.dll
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.pdb
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\MadLibsGame.genruntimeconfig.cache
+C:\ElevenFiftyAcademy149\ElevenFiftyAcademy149\codingFoundations\assignments\MadLibsGame\obj\Debug\net6.0\ref\MadLibsGame.dll
