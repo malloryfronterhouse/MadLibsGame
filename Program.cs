@@ -1,4 +1,6 @@
-﻿// Lines 2-10 are introductory messages
+﻿using System;
+using System.ComponentModel;
+// Lines 2-10 are introductory messages
 System.Console.WriteLine("Welcome to Mad Libs!\n");
 System.Console.Write("Please enter your name: ");
 string username = Console.ReadLine();
@@ -38,6 +40,8 @@ catch (FormatException e)
 {
     System.Console.WriteLine($"Please enter a number not a word!");
 }
+
+
 
 int number = Convert.ToInt32(Console.ReadLine()); //converts string to an int 
 Console.Clear();
